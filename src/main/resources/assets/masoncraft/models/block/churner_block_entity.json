@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "masoncraft:block/churner_block_entity_top",
+    "down": "masoncraft:block/churner_block_entity_bottom",
+    "north": "masoncraft:block/churner_block_entity",
+    "east": "masoncraft:block/churner_block_entity",
+    "south": "masoncraft:block/churner_block_entity",
+    "west": "masoncraft:block/churner_block_entity"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "masoncraft:block/churner_block_entity_bottom"
+  }
+}

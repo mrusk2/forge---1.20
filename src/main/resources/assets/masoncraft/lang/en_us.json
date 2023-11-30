@@ -1,0 +1,13 @@
+{
+  "item.masoncraft.butter": "Butter",
+  "item.masoncraft.croissant": "Croissant",
+  "item.masoncraft.hot_dog": "Hot Dog",
+  "item.masoncraft.burger": "Burger",
+  "item.masoncraft.tomato": "tomato",
+  "item.masoncraft.ketchup": "ketchup",
+
+  "block.masoncraft.butter_block": "Butter Block",
+  "block.masoncraft.churner_block_entity": "Churner",
+
+  "itemGroup.mason": "Mason"
+}

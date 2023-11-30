@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "masoncraft:block/churner_block_entity"
+    },
+    "facing=east": {
+      "model": "masoncraft:block/churner_block_entity", "y": 90
+    },
+    "facing=south": {
+      "model": "masoncraft:block/churner_block_entity", "y": 180
+    },
+    "facing=west": {
+      "model": "masoncraft:block/churner_block_entity", "y": 270
+    },
+    "facing=up": {
+      "model": "masoncraft:block/churner_block_entity_top"
+    },
+    "facing=down": {
+      "model": "masoncraft:block/churner_block_entity_bottom"
+    }
+  }
+}

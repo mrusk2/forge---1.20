@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":[
+    {
+      "item": "masoncraft:butter_block"
+    }
+  ],
+  "result": {
+    "item": "masoncraft:butter",
+    "count": 9
+  }
+}
